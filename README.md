@@ -8,6 +8,6 @@ I have two types of resume:
 
 
 # Personal Projects
-| Name                           | Years     |Lines of Code | Languages        | Frameworks  |
-| -----------                    |  ----------- |-----------  | -----------       | ----------- |
-| The Physiological Tracker  <br /> *(Private Repository)*    | 2019-2021 |10000       | Kotlin, TypeScript | Spring, Android SDK  |
+| Name                           | Years     |Lines of Code | Published | Languages        | Frameworks  | Technologies  |
+| -----------                    |  ----------- |-----------  |-----------  | -----------       | ----------- | ----------- |
+| The Physiological Tracker  <br /> *(Private Repository)*    | 2019-2021 |16000       | - | Kotlin, TypeScript, Less | Spring (Web, Security, Data), Android SDK, Angular  | Hibernate, Thymeleaf, JPA, Dozer, MySQL, Apache Commons (Lang, IO), Jackson|
