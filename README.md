@@ -10,7 +10,7 @@ I have two types of resume:
 # Personal Projects
 | Name                           | Years     |Lines of Code | Published | Languages        | Frameworks  | Technologies  |
 | -----------                    |  ----------- |-----------  |-----------  | -----------       | ----------- | ----------- |
-| The Physiological Tracker  <br /> *(Private Repository)*    | 2019-2021 |~16000       | | Kotlin, TypeScript, Less | Spring (Web, Security, Data), Android SDK, Angular 7 | Hibernate, Thymeleaf, JPA, Dozer, MySQL, Apache Commons (Lang, IO), Jackson|
+| Activity Tracker  <br /> *(Private Repository)*    | 2019-2021 |~16000       | | Kotlin, TypeScript, Less | Spring (Web, Security, Data), Android SDK, Angular 7 | Hibernate, Thymeleaf, JPA, Dozer, MySQL, Apache Commons (Lang, IO), Jackson|
 |[IceMemo](https://github.com/kciray8/IceMemo)|2017|[9820](https://www.openhub.net/p/IceMemo)|[Paper (Scopus)](http://ceur-ws.org/Vol-2344/short7.pdf)|Groovy, HTML5, JavaScript|Spring, AngularJS|Jsoup, SLF4J, H2, Jetty|
 |[IronBrain](https://github.com/kciray8/IronBrain)|2015|[5200](https://www.openhub.net/p/IronBrain)|[Habr](https://habr.com/ru/post/249187)|Java, HTML, JS, CSS|Spring||
 |[KciFileManager](https://github.com/kciray8/KciFileManager)|2014|[3100](https://www.openhub.net/p/KciFileManager)|[Google Play](https://play.google.com/store/apps/details?id=com.kciray.android.filemanager) (inactive)|Java, XML|Android SDK|Guava, Retrolambda|
